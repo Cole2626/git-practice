@@ -1,1 +1,2 @@
 Name: Cole
+Learning Git is fun!
